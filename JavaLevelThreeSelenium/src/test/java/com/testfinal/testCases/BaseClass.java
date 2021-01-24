@@ -42,7 +42,7 @@ public class BaseClass {
 		System.setProperty("webdriver.gecko.driver",readconfig.getFirefoxPath());
 		driver= new FirefoxDriver();
 		}else if(br.equals("ie")) {
-		System.setProperty("webdriver.gecko.driver",readconfig.getIEPath());
+		System.setProperty("webdriver.ie.driver",readconfig.getIEPath());
 		driver= new InternetExplorerDriver();
 		}
 		
