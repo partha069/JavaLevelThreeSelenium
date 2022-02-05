@@ -4,7 +4,7 @@ public class sdcsfd {
 	
 	public static void main(String[] args) {
 		//1stmmmmm
-		//dcsfkkkkkkkkkkkk
+		//dcs
 		/*
 		 * Git Command
 		 */
